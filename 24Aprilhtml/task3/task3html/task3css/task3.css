@@ -1,0 +1,41 @@
+p{
+    font-size: 17px;
+}
+.i1{
+    margin-left: 49px;
+}
+.i2{
+    margin-left: 35px;
+    margin-top: 7px;
+}
+.i3{
+    margin-left: 60px;
+    margin-top: 7px;
+}
+.i4{
+    margin-left: 56px;
+    width: 100px;
+    margin-top: 7px;
+}
+.i5{
+    margin-left: 66px;
+    width: 100px;
+    margin-top: 7px;
+}
+select{
+    margin-left: 25px;
+    width: 107px;
+    margin-top: 7px;
+    margin-bottom: 7px;
+}
+.l1{
+    margin-left: -5px;
+}
+button{
+    margin-top: 18x;
+    margin-top: 7px;
+}
+textarea{
+    width: 400px;
+    height: 100px;
+}
